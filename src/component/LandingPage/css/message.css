@@ -1,0 +1,73 @@
+.message{
+    position: absolute;
+    width: 1440px;
+    height: 461px;
+    left: 0px;
+    top: 4180px;
+    background: #F4F4F2
+}
+
+.p-text{
+position: absolute;
+width: 801px;
+height: 108px;
+left: 320px;
+top: 110px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #333333
+}
+
+.text-msg{
+    position: absolute;
+    width: 801px;
+    height: 108px;
+    left: 320px;
+    top: 43px;
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;    
+    text-align: center;
+    color: #333333;
+    
+}
+
+.msg-btn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 60px 8px 20px;
+    position: absolute;
+    width: 224px;
+    height: 52px;
+    left: 608px;
+    top: 250px;    
+    background: #9B51E0;
+    /* color:white; */
+    text-decoration: none;
+
+}
+
+.btn-text{
+position: absolute;
+width: 96px;
+height: 36px;
+left: 94px;
+top: 10px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 36px;
+color: #FFFFFF
+}

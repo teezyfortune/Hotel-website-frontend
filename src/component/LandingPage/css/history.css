@@ -1,0 +1,78 @@
+.sections{
+    display:inline-flex;
+    margin: 4rem;
+}
+
+.sections .firstImage{
+/* /* position: absolute; */
+width: 614px;
+height: 460px;
+left: 120px;
+top: 1118px 
+}
+
+.sections  .content{
+    /* position: absolute; */
+     width: 494px;
+    height: 330px;
+    top: 1246px;
+    left: 826px;
+    /* overflow: hidden; */
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    margin-left:2rem;
+     color: #333333; 
+
+}
+
+.sections .text-delight{
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+margin-left:2rem;
+color: #000000;
+
+}
+
+.sections .text-history{
+    /* position: absolute; */
+/* width: px; */
+height: 53px;
+/* left: 826px; */
+top: 1161px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 45px;
+margin-left:2rem;
+margin-top:1rem;
+color: #333333;
+
+}    
+
+.btn-1{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 64px;
+/* margin-bottom: 3rem; */
+position: absolute;
+width: 224px;
+height: 52px;
+left: 826px;
+margin-top: -1rem;
+color: #FFFFFF;
+/* Purple 1 */
+
+background: #9B51E0;
+border: 1px solid #9B51E0;
+box-sizing: border-box;
+text-decoration: none
+}

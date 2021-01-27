@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.landing-bg{
+    background-image: url("../../assets/images/LandingPage/back.svg"),
+    linear-gradient(rgba(17, 17, 0, 0.6), rgba(17, 17, 0, 0.6));
+    background-blend-mode: overlay;
+    height: 988px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}

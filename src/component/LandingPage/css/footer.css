@@ -1,0 +1,198 @@
+.footer{
+position: absolute;
+width: 1437px;
+height: 185px;
+left: 3px;
+top: 4641px;
+background: #FFFFFF
+}
+
+.footer-top{
+
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    margin-top: 4rem;
+    /* top: 100px; */
+}
+
+.footer-down{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+     top: 70px;
+    /* justify-content: center; */
+
+}
+ .footer-top .room{
+position: absolute;
+width: 60.2px;
+height: 27px;
+left: 123px;
+/* margin-left: 8rem; */
+top: 50px;
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+color: #333333;
+
+}
+
+.footer-top .bar{
+position: absolute;
+width: 158.53px;
+height: 27px;
+left: 327.68px;
+top: 50px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+color: #333333
+}
+
+.footer-top .fac{
+position: absolute;
+width: 75.25px;
+height: 27px;
+left: 630.69px;
+top: 50px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+color: #333333
+}
+
+.footer-top .offers {
+position: absolute;
+width: 53.18px;
+height: 27px;
+left: 850.42px;
+top: 50px;
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+color: #333333;
+}
+
+.footer-top .gallery{
+position: absolute;
+width: 61.2px;
+height: 27px;
+left: 1048.08px;
+top: 50px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+color: #333333
+}
+
+.footer-top .contact {
+position: absolute;
+width: 69.23px;
+height: 27px;
+left: 1253.77px;
+top: 50px;
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+
+color: #333333
+}
+
+.footer-down .access{
+position: absolute;
+width: 105px;
+height: 27px;
+left: 123px;
+top: 120px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+color: #333333
+}
+
+ .footer-down .trust{
+    position: absolute;
+    width: 113px;
+    height: 27px;
+    left: 328px;
+    top: 120px;
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #333333;
+ }
+
+ .footer-down .help{
+    position: absolute;
+    width: 103px;
+    height: 27px;
+    left: 631px;
+    top: 120px;
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #333333
+ }
+
+ .footer-down  .twitter-img {
+    position: absolute; 
+    left: 850.42px;
+    top: 120px;
+    bottom: 6.25%;
+    
+    /* background: #333333; */
+ }
+ .footer-down .fb-img{
+    position: absolute;
+    left: 880.42px;
+    right: 8.33%;
+    top: 120px;
+    bottom: 8.83%;
+    
+    /* background: #333333 */
+ }
+
+ .footer-down .delight{
+    position: absolute;
+    width: 262px;
+    height: 27px;
+    left: 1061px;
+    top: 120px;
+    
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #333333
+ }

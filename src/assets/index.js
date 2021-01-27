@@ -1,0 +1,1 @@
+import LandingPgaeImage from './images';

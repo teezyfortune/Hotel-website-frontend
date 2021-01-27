@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* position: absolute; */
+height: 2552px;
+left: 0px;
+/* top: 990px; */
+background: #F4F4F2
+}
+
+ .main-container{
+
+
+}
